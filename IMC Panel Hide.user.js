@@ -5,6 +5,8 @@
 // @description  На HPE IMC приховує верхню, ліву та "advanced" панелі на сторінці всіх критичний тривог.
 // @author       Ovolya
 // @match        *://*/imc/*
+// @updateURL    https://github.com/Ovolsan/IMC-Panel-Hide/raw/refs/heads/main/IMC%20Panel%20Hide.user.js
+// @downloadURL  https://github.com/Ovolsan/IMC-Panel-Hide/raw/refs/heads/main/IMC%20Panel%20Hide.user.js
 // @grant        none
 // ==/UserScript==
 
